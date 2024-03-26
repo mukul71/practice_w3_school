@@ -14,3 +14,19 @@ div{
     width: 200px;
     text-align: justify;
 }
+
+p.a{
+    text-align-last: right;
+}
+
+p.b{
+    text-align-last: center;
+}
+
+p.c{
+    text-align-last: left;
+}
+
+p.d{
+    text-align-last: justify;
+}
