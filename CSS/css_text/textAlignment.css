@@ -1,0 +1,32 @@
+h1{
+    text-align: center;
+}
+h2{
+    text-align: left;
+}
+h3{
+    text-align: right;
+}
+div{
+    border: 1px solid black;
+    padding: 10px;
+    height: 200px;
+    width: 200px;
+    text-align: justify;
+}
+
+p.a{
+    text-align-last: right;
+}
+
+p.b{
+    text-align-last: center;
+}
+
+p.c{
+    text-align-last: left;
+}
+
+p.d{
+    text-align-last: justify;
+}
