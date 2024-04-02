@@ -7,4 +7,4 @@ th,td{
     text-align: left;
     border-bottom: 1px solid #ddd;
 }
-tr:nth-child(even){background-color: lightgray
+tr:nth-child(even){background-color: lightgray}
