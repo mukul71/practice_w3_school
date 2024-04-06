@@ -1,0 +1,30 @@
+.divOne{
+    height: 200px;
+    width: 200px;
+    display: flex;
+    background-color: black;
+    color: white;
+    align-items:center;
+    justify-content:end;
+    position:absolute;
+    z-index: 2;
+    top: 20px;
+    left: 20px;
+
+}
+
+.divTwo{
+    height: 400px;
+    width: 400px;
+    background-color: aqua;
+    display: flex;
+    align-items: center;
+    justify-content: end;
+    position: relative;
+    z-index: 1;
+}
+
+#mainDiv{
+    position: relative;
+}
+
