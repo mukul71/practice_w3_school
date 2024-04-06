@@ -1,0 +1,32 @@
+.divOne{
+    width: 200px;
+    height: 200px;
+    background-color: black;
+    color: white;
+    display: flex;
+    align-items:center ;
+    justify-content: center;
+    position: absolute;
+    z-index: 2;
+    
+    
+}
+
+.divTwo{
+    width: 400px;
+    height: 250px;
+    display: flex;
+    background-color: aqua;
+    color: red;
+    align-items: center;
+    justify-content:center;
+    position: relative;
+    z-index: 1;
+    
+
+    
+}
+#mainDiv{
+    position: relative;
+    display: flex;
+}

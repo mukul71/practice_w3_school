@@ -1,0 +1,28 @@
+.absolute{
+    background-color: coral;
+    width: 100px;
+    height: 100px;
+    position: absolute;
+    color: black;
+    z-index: 2;
+    justify-content: center; 
+    align-content: center;
+   display: flex;
+   top: 50px;
+   right:120px;
+}
+
+.relative{
+    background-color: blue;
+    width: 200px;
+    height: 200px;
+    position: relative;
+    color: white;
+    z-index: 1;
+    justify-content: center;
+    align-content: center;
+    display: flex;
+}
+.mainDiv{
+    position: relative;
+}
