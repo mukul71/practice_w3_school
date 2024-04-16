@@ -1,0 +1,29 @@
+.container{
+    position: relative;
+}
+.black-box{
+    position:relative;
+    z-index: 1;
+    border: 2px solid black;
+    height: 100px;
+    margin:30px
+    
+}
+.grey-box{
+    position: absolute;
+    z-index: 3; /* gray box will be above both green and black box */
+    background: lightgray;
+    height: 60px;
+    width: 70%;
+    left: 50px;
+    top: 50px;
+}
+.coral-box{
+    position: absolute;
+    z-index: 2; /*coral box will above the black box */
+    background: coral;
+    width: 35%;
+    height: 100px;
+    left: 270px;
+    top: -15px;
+}
