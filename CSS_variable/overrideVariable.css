@@ -1,0 +1,44 @@
+/* Global Variable */
+:root{
+    --blue: blue;
+    --red: red;
+    --coral: coral;
+    --white: white;
+    --green: green;
+}
+body{
+    background-color: var(--blue);
+}
+h2 {
+    border-bottom: 2px solid var(--coral);
+}
+
+.container{
+    color: var(--blue);
+    background-color: var(--white);
+    padding: 15px;
+}
+
+button {
+    background-color: var(--blue);
+    color: var(--white);
+    border: 1px solid var(--coral);
+    padding: 5px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
