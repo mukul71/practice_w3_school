@@ -1,0 +1,31 @@
+/* Normally CSS uses variables for colors 
+by using variable we can change a color
+used in hundreds of elements in our website.
+There are two types of variables in CSS:
+Global and Local
+*/
+root{
+    --blue: #1e90ff;
+    --white: white;
+}
+
+body{
+    background-color: var(--blue);
+}
+
+h2{
+    border: 2px solid var(--blue);
+}
+
+.container{
+    color: var(--blue);
+    background-color: var(--white);
+    padding: 15px;
+}
+
+button{
+    background-color: var(--white);
+    color: var(--blue);
+    border: 1px solid var(--blue);
+    padding: 5px;
+}
