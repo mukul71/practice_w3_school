@@ -20,8 +20,9 @@ h2 {
 }
 
 button {
-    background-color: var(--blue);
-    color: var(--white);
+    --button-blue: #0000ff /*new local variable */
+    background-color: var(--white);
+    color: var(--button-blue);
     border: 1px solid var(--coral);
     padding: 5px;
 }
