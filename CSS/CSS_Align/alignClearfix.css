@@ -1,0 +1,17 @@
+div{
+    border: 3px solid coral;
+    padding:5px;
+}
+
+.img1{
+    float: right;
+}
+
+.img2{
+    float: right;
+}
+.clearfix::after{
+    content: "";
+    clear: both;
+    display: table;
+}
