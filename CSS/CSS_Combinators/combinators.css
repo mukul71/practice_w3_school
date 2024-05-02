@@ -1,4 +1,4 @@
-/* Descendant Selector:
+/* Descendant Selector (Space):
 Descendant selector matches all elements that are 
 descendant of a specified element.
 */
@@ -6,3 +6,14 @@ div p{
     color: white;
     background-color: cornflowerblue;
 }
+
+/* 
+Child Selectors (>):
+The child selector selects all elements 
+that are the children of a specified element.
+*/
+div > p{
+    color: white;
+    background-color: blueviolet;
+}
+
