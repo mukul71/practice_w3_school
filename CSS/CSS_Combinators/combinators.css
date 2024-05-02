@@ -1,0 +1,8 @@
+/* Descendant Selector:
+Descendant selector matches all elements that are 
+descendant of a specified element.
+*/
+div p{
+    color: white;
+    background-color: cornflowerblue;
+}
