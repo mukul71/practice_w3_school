@@ -17,3 +17,8 @@ a:hover{
 a:active{
     color: blue;
 }
+
+/* Pseudo-classes can be combined with HTML classes */
+a.highlight:hover{
+    color: #ff0000;
+}
