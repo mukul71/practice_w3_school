@@ -22,3 +22,13 @@ a:active{
 a.highlight:hover{
     color: #ff0000;
 }
+
+div{
+    background-color: green;
+    color: white;
+    padding: 25px;
+    text-align: center;
+}
+div:hover{
+    background-color: blue;
+}
