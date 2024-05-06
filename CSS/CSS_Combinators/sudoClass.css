@@ -32,3 +32,13 @@ div{
 div:hover{
     background-color: blue;
 }
+
+p{
+    display: none;
+    background-color: yellow;
+    padding: 20px;
+}
+
+div:hover p{
+    display: block;
+}
