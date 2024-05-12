@@ -3,12 +3,12 @@ ul{
     margin: 0;
     padding: 0;
     width: 200px;
-    background-color: #f1f1f1;
+    background-color: #805a5a;
 }
 
 li a {
     display: block;
-   color: #000;
+   color: #9fb103;
    padding: 8px 16px;
    text-decoration: none;
 }
