@@ -1,0 +1,310 @@
+[33mcommit 3bf1ecc5ddb3db220b3cf232acc2dce6588f6580[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: mukul71 <mukul71@gmail.com>
+Date:   Fri May 17 22:23:38 2024 +0600
+
+    Responsive top nav
+
+[33mcommit cc872ae6aff25b2149d4413c7e098fc2e54ee696[m
+Author: mukul71 <mukul71@gmail.com>
+Date:   Thu May 16 22:01:19 2024 +0600
+
+    fixed bottom navigation bar
+
+[33mcommit 3193d5db7d85a5f2363dab92364fdbe6e3b5bb2a[m
+Author: mukul71 <mukul71@gmail.com>
+Date:   Thu May 16 21:52:23 2024 +0600
+
+    fixed top navigation bar
+
+[33mcommit d4648f0c752d920c0d56c782b3d7b29c843862a8[m
+Author: mukul71 <mukul71@gmail.com>
+Date:   Wed May 15 22:56:46 2024 +0600
+
+    actie nav bar
+
+[33mcommit ee4ea299474b38b55ef1662681a56e2fb1ab465f[m
+Author: mukul71 <mukul71@gmail.com>
+Date:   Tue May 14 21:55:58 2024 +0600
+
+    flot left
+
+[33mcommit 143b660cab1841b27360485ab742910b149a749c[m
+Author: mukul71 <mukul71@gmail.com>
+Date:   Sun May 12 22:23:43 2024 +0600
+
+    horizontal nav bar
+
+[33mcommit fa48acb3310c2791c9e09aefde22b9f1f012d824[m
+Author: mukul71 <mukul71@gmail.com>
+Date:   Sat May 11 22:57:36 2024 +0600
+
+    vertical nav bar
+
+[33mcommit 62ec2133719d32a66cd69fdc2873d4cf4d81ebb3[m
+Author: mukul71 <mukul71@gmail.com>
+Date:   Thu May 9 23:10:23 2024 +0600
+
+    css added
+
+[33mcommit cb6bc5a0c0706b7ae88fe5b34ce62fa3a61f8708[m
+Author: mukul71 <mukul71@gmail.com>
+Date:   Thu May 9 23:02:49 2024 +0600
+
+    Basic Nav bar
+
+[33mcommit d77818e719fa250cf9bfd29dff132a453422c084[m
+Author: mukul71 <mukul71@gmail.com>
+Date:   Wed May 8 22:26:33 2024 +0600
+
+    Transparent box
+
+[33mcommit 119156a668ff87017504f167cb0a267d68967a87[m
+Author: mukul71 <mukul71@gmail.com>
+Date:   Wed May 8 21:54:52 2024 +0600
+
+    Transparent on hover
+
+[33mcommit 342473c0fd72531a4532fc89df25ff7d5c7b1501[m
+Author: mukul71 <mukul71@gmail.com>
+Date:   Wed May 8 21:39:50 2024 +0600
+
+    50% opacity
+
+[33mcommit aec2a97ae69c4dda7a2ae3d1c84af1466e8f18d9[m
+Author: mukul71 <mukul71@gmail.com>
+Date:   Mon May 6 22:24:39 2024 +0600
+
+    hover used
+
+[33mcommit 7bf4e30234132b7067cc8171455b081265bd2bba[m
+Author: mukul71 <mukul71@gmail.com>
+Date:   Sun May 5 22:41:33 2024 +0600
+
+    div:hover used
+
+[33mcommit 489d89f537cd7efb75a51aef6a5e62eb3e082635[m
+Author: mukul71 <mukul71@gmail.com>
+Date:   Fri May 3 23:33:25 2024 +0600
+
+    html class + Pseudo class
+
+[33mcommit 26f7d63c18dd89af87a0c86dcd388616a49a1349[m
+Author: mukul71 <mukul71@gmail.com>
+Date:   Fri May 3 23:11:39 2024 +0600
+
+     sudo class used
+
+[33mcommit 8d59f44fc1517b491539111f989d3260704e026a[m
+Author: mukul71 <mukul71@gmail.com>
+Date:   Thu May 2 22:24:29 2024 +0600
+
+    Child selector
+
+[33mcommit 77bd2fb0ab8673c80628635eb3f0d5a53e2971a5[m
+Author: mukul71 <mukul71@gmail.com>
+Date:   Thu May 2 22:05:39 2024 +0600
+
+    descendant selectors
+
+[33mcommit ab7ada114989575b07292ab6860fdadca9fea84c[m
+Author: mukul71 <mukul71@gmail.com>
+Date:   Wed May 1 22:18:00 2024 +0600
+
+    clearfix uused
+
+[33mcommit 65d26ada30b165f523a7810cf730d993f4d2bde8[m
+Author: mukul71 <mukul71@gmail.com>
+Date:   Tue Apr 30 22:21:01 2024 +0600
+
+    position absolute
+
+[33mcommit 65bd7a6aa5001bac34781734d599b726fe111e01[m
+Author: mukul71 <mukul71@gmail.com>
+Date:   Tue Apr 30 22:09:42 2024 +0600
+
+    Center align an image
+
+[33mcommit e2d1ba1b52bd8cf2216bf2667cceef84a8304a6a[m
+Author: mukul71 <mukul71@gmail.com>
+Date:   Mon Apr 29 23:13:35 2024 +0600
+
+    center align with margin:auto
+
+[33mcommit fc0f66115a2b0a5bda9abf039d9f7f4ef3061fce[m
+Author: mukul71 <mukul71@gmail.com>
+Date:   Fri Apr 26 22:40:08 2024 +0600
+
+    Nav bar
+
+[33mcommit 44c45f0d97e1d078248cdf29f7462c1d508de5b9[m
+Author: mukul71 <mukul71@gmail.com>
+Date:   Fri Apr 26 22:16:54 2024 +0600
+
+    inline block
+
+[33mcommit ee177fde686c58f1ef07f6d787eddc3c27aed63d[m
+Author: mukul71 <mukul71@gmail.com>
+Date:   Tue Apr 23 22:23:24 2024 +0600
+
+    Navigation menu
+
+[33mcommit 1972f6a4ee108c1f52149299b06565b81a6708a3[m
+Author: mukul71 <mukul71@gmail.com>
+Date:   Sun Apr 21 22:17:54 2024 +0600
+
+    css float next to each other
+
+[33mcommit f3872d8263ae91d730fbd73a61e402559fa5b873[m
+Author: mukul71 <mukul71@gmail.com>
+Date:   Sun Apr 21 21:57:30 2024 +0600
+
+    float left & none
+
+[33mcommit dcf3db793d48486d7659be19f4a245708244a10c[m
+Author: mukul71 <mukul71@gmail.com>
+Date:   Sat Apr 20 17:36:18 2024 +0600
+
+    JavaScript added
+
+[33mcommit 3cbcb6121a3d3998a081cf370efcecabed1a0802[m
+Author: mukul71 <mukul71@gmail.com>
+Date:   Sat Apr 20 17:10:47 2024 +0600
+
+    local variable declared and used
+
+[33mcommit d5e34cf9067a351b0b5a92c8892c4681d75f0c9c[m
+Author: mukul71 <mukul71@gmail.com>
+Date:   Sat Apr 20 17:05:14 2024 +0600
+
+    global variables dfined and used
+
+[33mcommit f734f483985e9747dc5ef017df8c6485c5167e2e[m
+Author: mukul71 <mukul71@gmail.com>
+Date:   Sat Apr 20 12:17:25 2024 +0600
+
+    variable function used
+
+[33mcommit 7e2e68b14a49bec41a54b832d47145764948c37b[m
+Author: mukul71 <mukul71@gmail.com>
+Date:   Wed Apr 17 23:23:56 2024 +0600
+
+    image float left
+
+[33mcommit bdfab3adce12eb70f0533bcf4462ccbf8b3de48f[m
+Author: mukul <mukul71@gmail.com>
+Date:   Tue Apr 16 18:46:32 2024 +0600
+
+    another example of z-index
+
+[33mcommit 0fc3f152647e832084dcf3dbad9650f45c24f21e[m
+Author: mukul <mukul71@gmail.com>
+Date:   Tue Apr 16 18:17:40 2024 +0600
+
+    z-index
+
+[33mcommit 61ba15766d6e19958d933841570dd03562296bca[m
+Author: mukul <mukul71@gmail.com>
+Date:   Sat Apr 6 17:09:03 2024 +0600
+
+    ostad draft
+
+[33mcommit 1775a405978a25f6e33a089eb3b624dd52d7c1ee[m
+Author: mukul <mukul71@gmail.com>
+Date:   Sat Apr 6 16:11:43 2024 +0600
+
+    code modified
+
+[33mcommit 6792dc5086b15abcf1ca499c7c8677725760b26f[m
+Merge: f43c88b 9bc694f
+Author: mukul <mukul71@gmail.com>
+Date:   Sat Apr 6 15:38:19 2024 +0600
+
+    position practice
+
+[33mcommit 9bc694f2a2f0754b9bdcc91900afe7e659915d42[m
+Author: mukul71 <mukul71@gmail.com>
+Date:   Thu Apr 4 12:54:01 2024 +0600
+
+    position sticky
+
+[33mcommit 5bc4c421a6bf403fd30346f139df04a6c2157672[m
+Author: mukul71 <mukul71@gmail.com>
+Date:   Thu Apr 4 12:08:13 2024 +0600
+
+    absolute position with the help from Ostad
+
+[33mcommit b2380d19ee33bab7dd779f4b9cbec75489e02780[m
+Author: mukul71 <mukul71@gmail.com>
+Date:   Thu Apr 4 10:20:35 2024 +0600
+
+    postition fixed used
+
+[33mcommit 73e18accc39656b1c8ea96bf784d6027878769ba[m
+Author: mukul71 <mukul71@gmail.com>
+Date:   Thu Apr 4 09:15:14 2024 +0600
+
+    position relative used
+
+[33mcommit 388741cd608800e4786fe5b41342bb5a2d900277[m
+Author: mukul71 <mukul71@gmail.com>
+Date:   Wed Apr 3 21:57:45 2024 +0600
+
+    Sttic position
+
+[33mcommit f43c88ba9e9700035f9e7f085e077e85d0366f44[m
+Author: mukul <mukul71@gmail.com>
+Date:   Wed Apr 3 11:46:28 2024 +0600
+
+    display max-width
+
+[33mcommit ab6b3445591739a7714b2e122448b06102632642[m
+Author: mukul <mukul71@gmail.com>
+Date:   Wed Apr 3 11:06:21 2024 +0600
+
+    Display hidden, used
+
+[33mcommit 32bb1faad9247200686de4b8b890c0ec3f56cf6c[m
+Author: mukul <mukul71@gmail.com>
+Date:   Wed Apr 3 10:46:48 2024 +0600
+
+    Display Block with span used
+
+[33mcommit 624fd0e43ac4760b61dfde5a217853df6c09ccbc[m
+Author: mukul <mukul71@gmail.com>
+Date:   Wed Apr 3 10:28:40 2024 +0600
+
+    Inline Display used
+
+[33mcommit 8b6773ce98c5bd7184414313ed0ab5a59c06cb1e[m
+Author: mukul <mukul71@gmail.com>
+Date:   Wed Apr 3 09:38:06 2024 +0600
+
+    content moved
+
+[33mcommit 02b24d71bcb8868290a063bbd83cd6bb31b64f3e[m
+Author: mukul71 <mukul71@gmail.com>
+Date:   Tue Apr 2 22:32:43 2024 +0600
+
+    table alignment used
+
+[33mcommit bf6d7dd8caa83ee683a01fcceb85600cbf757f33[m
+Author: mukul <mukul71@gmail.com>
+Date:   Tue Apr 2 11:09:21 2024 +0600
+
+    style="overflow-x:auto" used to make the table responsive
+
+[33mcommit c7c756ed822b1d03c2234d6ab74c7b5b0febfefb[m
+Author: mukul <mukul71@gmail.com>
+Date:   Tue Apr 2 10:57:38 2024 +0600
+
+    colors used in table
+
+[33mcommit 1d3f2e433dde1f771d5305882de866e63acd1f45[m
+Author: mukul <mukul71@gmail.com>
+Date:   Tue Apr 2 10:47:14 2024 +0600
+
+    stripped used in table
+
+[33mcommit 238366a3de0574775edc4547afd69b2d692d8778[m
+Author: mukul <mukul71@gmail.com>
+Date:   Tu
